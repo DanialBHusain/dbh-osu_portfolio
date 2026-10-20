@@ -1,0 +1,33 @@
+Job title: Senior Data Scientist 
+Employer: Nike
+URL: https://www.linkedin.com/jobs/search-results/?currentJobId=4454886560&eBP=NON_CHARGEABLE_CHANNEL&refId=V407jdPAR81%2BuXW8gG6Nqw%3D%3D&trackingId=mGJ25whMfMAmoIH%2FuaRYUQ%3D%3D&keywords=data%20science&origin=SWITCH_SEARCH_VERTICAL
+Skills, tools, or qualifications:
+Advanced quantitative degree in a relevant field and 5+ years of related industry experience or a bachelor’s degree with 7-12 years of related industry experience
+Knowledge and hands on experience with data science and optimisation methodologies
+Advanced skills in SQL and Python
+Familiarity with the wide range of data science/analytics software tools
+Experience with building and maintaining predictive models
+Knowledge and experience in supply chain, supply planning, manufacturing & sourcing, and logistics
+Ability with data engineering
+Excellent written and verbal communication skills (COMMUNICATION and TEAMWORK)
+
+
+Job title: Machine Learning Engineer
+Employer: Cellanome
+URL: https://www.linkedin.com/jobs/search-results/?currentJobId=4462572976&eBP=NON_CHARGEABLE_CHANNEL&refId=ijEYsFrkHHKHMmNtjNwA3Q%3D%3D&trackingId=i8o4fjUbKfEGmy8uMnKH6A%3D%3D&keywords=data%20science&origin=SWITCH_SEARCH_VERTICAL&start=25
+Skills, tools, or qualifications:
+Bachelor’s degree in computer science or related technical field with 5+ years of relevant experience, or a Master’s degree with 3+ years of relevant experience.
+Experience with optimization, automation, sensing, data analysis, or image-processing algorithms and applying them
+Strong python skills
+Understanding of software development fundamentals and mathematical foundations (TECHNICAL SKILLS)
+Familitary with AI/ML
+Familiarity with workflow automation
+Ability to analyse complex technical problems (CRITICAL THINKING)
+COMMUNICATION and TEAMWORK
+Preferred Qualifications:
+Proficiency in C++ or other high-performance programming languages
+Experience developing AI/ML 
+Familiarity with modern deep learning architectures and machine learning frameworks
+
+
+The only real thing that surprised me was how many years of relevant experience you need for both positions. Another thing that surprised me was how much was different between the two positions even though they're technically in the same position. For example, the Data Scientist position at Nike required a lot more experience with logistics and supply chain management whilst the machine learning engineer role at Cellanome requires more experience working with AI and machine learning. The final thing that I’d say surprised me was the similar requirements of having experience with optimisation models/algorithms, as I never really considered that to be an aspect of Data Science. 
